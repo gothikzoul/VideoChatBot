@@ -6,5 +6,5 @@ RUN apt install ffmpeg -y \
 COPY . /VideoChatBot \
 WORKDIR /VideoChatBot \
 RUN pip3 install --upgrade pip \
-RUN pip install --upgrade -r requirements.txt \
+RUN pipenv install -r requirements.txt \
 CMD python3 -m bot 
