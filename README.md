@@ -56,11 +56,11 @@ nstream - Stop Video Streaming
 ```sh
 $ git clone https://github.com/brut-ctrl/VideoChatBot.git
 $ cd VideoChatBot
-$ sudo apt-get install python3-pip ffmpeg
+$ sudo apt-get install python-pip ffmpeg
 $ pip3 install -U pip
 $ pip3 install -U -r requirements.txt
 # <create .env variables appropriately>
-$ python3 -m bot
+$ python -m bot
 ```
 
 
