@@ -1,7 +1,7 @@
 {
     "name": "Video Chat Stream Telegram Bot",
     "description": "Can Stream Live Videos, Radios, YouTube Videos & Telegram Video Files On Your Video Chat Of Channels & Groups!",
-    "repository": "https://github.com/brut-ctrl/VideoChatBot",
+    "repository": "https://github.com/gothikzoul/VideoChatBot",
     "stack": "container",
     "keywords": [
       "telegram",
